@@ -7,3 +7,7 @@ This repository is for practicing the GitHub Flow.
 ## first
 
 About today, I started to explore Git and Github!
+
+## Local Development
+
+1. Open index.html in your browser.
